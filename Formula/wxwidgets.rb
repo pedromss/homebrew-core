@@ -45,6 +45,7 @@ class Wxwidgets < Formula
       "--enable-svg",
       "--enable-unicode",
       "--enable-webviewwebkit",
+      "--enable-compat28",
       "--with-expat",
       "--with-libjpeg",
       "--with-libpng",
